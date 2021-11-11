@@ -1,5 +1,3 @@
-$("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'>تصميم وبرمجه: <a href='https://ya-f3.com'>شات انفاس</a></div>").insertAfter($(".loginstat"));  },1000);
-
 if(location.protocol!='https:'){location.protocol='https:';}
 
 $(`<img src="https://www.ya-f3.com/sico/1636459719380.gif" class="fr" style="width:100%;margin-top: 0px;">
