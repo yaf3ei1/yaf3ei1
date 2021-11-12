@@ -1,5 +1,8 @@
- $("div#tlogins button.btn.btn-primary").click(function(){var myVar = setInterval(function(){ var usmsgw = $(".pmsgc").length;if(usmsgw > 0){
 
+$("label.label.tc.border.cp.btn.label-danger.fl").html("<span class='fl fa fa-star-half-o'></span>لوحة تحكم شات انفاس للضروره فقط ");
+$("div#tlogins button.btn.btn-primary").click(function(){var myVar = setInterval(function(){ var usmsgw = $(".pmsgc").length;if(usmsgw > 0){
+
+ 
    $(`
 
     <div class="uzr fl corner borderg mm" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
