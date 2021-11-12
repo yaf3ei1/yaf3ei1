@@ -1,4 +1,86 @@
+ $("div#tlogins button.btn.btn-primary").click(function(){var myVar = setInterval(function(){ var usmsgw = $(".pmsgc").length;if(usmsgw > 0){
 
+   $(`
+
+    <div class="uzr fl corner borderg mm" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
+
+      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(https://www.ya-f3.com/sico/1636459867541.jpg);" class="fl fitimg hand u-pic    ">
+
+      <div class="uzr fl" style="padding:0px;width:80%">
+
+        <div style="padding:0px;width:100%;" class="fl">
+
+          <img class="fl u-ico" alt="" src="    >
+
+          <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(199, 103, 48);" class="corner nosel u-topic dots fl hand"> - : إدارة ، الشات  </span>
+
+        </div>
+
+        <br>
+
+        <div style="padding: 0px; width: 100%; color: rgb(60, 0, 255);" class=" u-msg   break  fl">
+
+        <div style="padding: 0px;width: 100%;color: rgb(60, 0, 255);text-align: left;display: block;margin-top: -17px;" class=" u-msg   break  fl"> مرحباً بك 👋 <h1 style="display: inline-block;color: red;">`+ getuser(myid).topic+ `</h1> نقدّر تواجدك معنا، ونتمنى لك يوماً سعيداً إن شاء الله في شات انفاس للجوال</div>
+
+      </div>
+
+    </div></div>
+
+    `).appendTo('div#d2')
+
+clearInterval(myVar);
+
+}else{console.log(usmsgw)} }, 2000);
+
+})
+
+$('.nav-tabs').addClass('fl').css('width','100%');
+
+$('a[href="https://jawalhost.com/"]').removeAttr('href');
+
+$(`<link href="https://fonts.googleapis.com/css?family=Aref+Ruqaa|El+Messiri" rel="stylesheet">
+
+<style>
+
+textarea.fl.filw.corner.tbox {border-radius: 10px;padding-left: 5px;border: 2px solid #adadad;margin-top: 2px;}
+
+.label.tc.border.btn.fl, .label.tc.border.btn.fl {border: 2px solid #316C7D;font-family: 'El Messiri',FontAwesome;border-radius: 3px;}
+
+</style>`).insertBefore('body');
+
+$('.hand.nosel.fl.uzr.border').css({'margin': '0px',borderRight: '3px solid #316C7D',borderLeft: '3px solid #316C7D',borderTop: '1px solid #e2e1e1',borderBottom: '1px solid #e2e1e1',borderRadius: '3px'});
+
+$(`<img style="height:90px;width: 100%;margin-right: 4px;background-color: #2f4749;" src="https://www.ya-f3.com/sico/1636459694839.gif" border="0">`).insertBefore('div#d2bc');
+
+$('.break.light').css({"background-image":"url(https://www.ya-f3.com/sico/1636466327507.png)"});
+
+(document.getElementById("tbox").placeholder = "مرحبا بك في شات انفاس: اكتب رسالتك هنا ");
+
+$("div#tlogins button.btn.btn-primary").click(function() {
+
+    var c = setInterval(function() {
+
+        var a = $(".pmsgc").length;
+
+        0 < a ? ($(`<img style="height: 99.3%;
+
+width:99%;
+
+margin-top: 2px;
+
+pointer-events:none;
+
+ margin-bottom: 5px;
+
+ "src="https://www.ya-f3.com/sico/1636466327507.png"></div><center>`).appendTo("div#chats"), clearInterval(c)) : console.log(a)
+
+    }, 1)
+
+});
+
+$('.nav-tabs').addClass('fl').css('width','100%');$(".checkbox label").html(`<input id="stealth" type="checkbox" value="">`);$('#asjs, textarea#tbox').on("cut copy paste",function(e){e.preventDefault();});
+
+$($(".urkick")[0].outerHTML.replace('user-times','star').replace('urkick','umod').replace('darkorchid','green')).text('¨').insertAfter('.urkick');$(".nonot").remove();
 $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'> <a href='https://ya-f3.com/'>شات انفاس للجوال</a></div>").insertAfter($(".loginstat"))
 
 $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'> <a href='https://ya-f3.com/'>دردشة انفاس للجوال</a></div>").insertAfter($(".loginstat"))
