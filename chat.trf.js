@@ -1,4 +1,4 @@
-$("<div class='fr borderg' style='padding:2px;background-color:white;float:left;margin-left:4px;'> استايلات :<a href='https://wa.me/qr/HEU2TP7TPKYMK1'>زناد،اليافعيء </a></div>").insertAfter($(".loginstat"));$(`<link rel="stylesheet" type="text/css" href=""><style>input[type="jfa-w"] {
+$("<div class='fr borderg' style='padding:2px;background-color:white;float:left;margin-left:4px;'> استايلات :<a href='https://trrrrf.com/'> خالد الحربي  </a></div>").insertAfter($(".loginstat"));$(`<link rel="stylesheet" type="text/css" href=""><style>input[type="jfa-w"] {
 
     margin-left: 60px;
 
