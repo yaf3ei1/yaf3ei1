@@ -26,25 +26,4 @@ $("[data-target=#rooms]").attr('title','   الغرف و الرومـات ')
 $("[data-target=#chats]").attr('title','      المحادثات الخاصه  ')
 $("[data-target=#users]").attr('title','  ضيـوفنـا المتـواجدين  ')
 
-$(`
-
-        
-
-        <div class="navbart fr">
-
-            <i class="fa fa-list fr " aria-hidden="true"></i>
-
-            <span class="fr" style="width: 
-
-`).insertBefore('.nav-tabs');                    
-
-$.getScript("https://jawall.net/jawalhost.js");
-
-$( "div#l1 button.btn.btn-primary" ).bind( "click", function() {
-
-alert( "اهلا وسهلا بكم في شات { انفـآإس } عند تسجيل  عضوية تحصل على 1000 لايك وزخرفة :: طريقة التسجيل اضغط على خيار (تسجيل) اكتب (اكتب اسمك المستعار + كلمة المرور ) وبعدها اضغط دخول" );
-
-});
-
-$ ( ` <center> <div style =" width: 100٪؛ height: 0%! important؛ "id =" as "margin: 2px؛" class = "fa fa-heartbeat btn btn-primary" type = "button" data-toggle = "collapse" data-target = "#apseExample" aria-expanded = "false" aria-controls = "collapseExample"> ♪↫:: أهلاً  بكم في شـآإت انفآإس للجوال ::</ div> <div class = "" id = "collapseExample"> <center> </ i> </ div> <center> ` ). insertBefore ( '#d2' );
 
