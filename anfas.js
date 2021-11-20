@@ -15,7 +15,7 @@ $("div#tlogins button.btn.btn-primary").click(function(){var myVar = setInterval
 
           <img class="fl u-ico" alt="" src="    >
 
-          <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(199, 103, 48);" class="corner nosel u-topic dots fl hand"> - : إدارة ، الشات  </span>
+          <span style="padding: 1px 8px; margin-top: 2px; display: block; max-width: 82%; border-radius: 3px; color: rgb(199, 103, 48);" class="corner nosel u-topic dots fl hand"> - :  إدارة ، الشات / انفـآإس </span>
 
         </div>
 
