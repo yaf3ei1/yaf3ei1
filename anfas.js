@@ -57,7 +57,7 @@ $(`<img style="height:90px;width: 100%;margin-right: 4px;background-color: #2f47
 
 $('.break.light').css({"background-image":"url(https://www.ya-f3.com/sico/1636466327507.png)"});
 
-(document.getElementById("tbox").placeholder = "مرحبا بك في شات انفاس: اكتب رسالتك هنا ");
+(document.getElementById("tbox").placeholder = "مرحبا بك في شات انفاس : اكتب رسالتك  ");
 
 $("div#tlogins button.btn.btn-primary").click(function() {
 
@@ -91,14 +91,14 @@ $("<div class='fr borderg' style='padding:2px;background-color:white;margin-righ
 $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'> <a href='https://ya-f3.com/'>شات انفاس </a></div>").insertAfter($(".loginstat"))
 
 $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'> <a href='https://ya-f3.com/'>شات صوتي كتابي </a></div>").insertAfter($(".loginstat"))
-$(`<a href="https://instabio.cc/3102511mK1SUh" target="_blank" style=" width: 100%; "  id="asim33" class="btn btn-primary btn-sm" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample"> للتواصل عبر مواقعنا </div></a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
+
 $(`<marquee direction="right" width="65%" direction="right" style="margin-bottom: -7px;font-family: 'Changa', sans-serif; height: 20px;" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5"><font style="background-color: #‏B7B6BA;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;">  اهلا وسهلا بكم في شات <font color="#357524" class="des2"> { انفـآإس } </font>افضل حضور الاسبوع<font class="des2" color="#800000">( قريباً ) </font>مبدع الشات <font class="des2" color="#223366">  ( قريباً )</font>افضل روم لهذا الاسبوع<font class="des2" color="#ff00ff"> ( الروم العام )   </font>افضل سوبر هذا الآسبوع  <font class="des2" color="#5CAD9A">( قريباً ) </font>مبدع الحائط لهذا الاسبوع<font class="des2" color="#800000"> ( قريباً )  </font>مع تمنياتنا للجميع باطيب الاوقات</marquee></font></b></td>`).insertBefore('span.s1.fa.fa-user.label.badgex.label-as-badge.label-success');
 $(` <center><div width="99%" id="asim7"><font style="background-color:#FFFFFF;color:#2f4749;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;" > 
  ( متنفس الآقلأم والقلوب)  </font></div><center>`).insertBefore('div#d2bc');
 $(".tboxbc").attr("placeholder", "اطلق العنان لقلمك وابدع");
 $("#l1>button,#l2>button").click(function(){alert('   اهلآإ بكم فيء عائلتنا عائلة شات انفاس للجوال     ')})
 $(`<div style=" color: #FC1717;text-align: center;margin-bottom: 10px; font-family:'jazeera-light', Fontawesome"> إعلانات شات انفاس  للضروره فقط </div>`).insertBefore('span.fl.fa.fa-send');
-$(`<a href="https://coolnames.online/English-decoration" target="_blank" style=" width: 30%; "  id="asim33" class="btn btn-primary btn-sm" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">زخرفة</div></a>`).insertBefore('a.fl.fa.fa-ban.btn.ui-corner-all.ui-shadow.ui-btn.ui-btn-inline.umute.borderg');
+
 $('.dpnl').append(` <div id="mic" style="height: 100%;width:100%;" class="break light tab-pane border"><input type="jfa-w" name="FirstName" value=" قرآن كريم ">
 
 <audio class="wp-audio-shortcode" id="audio-236-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://h.top4top.io/m_1595scph70.mp3"><a href="https://h.top4top.io/m_1595scph70.mp3">https://h.top4top.io/m_1595scph70.mp3</a></audio>
