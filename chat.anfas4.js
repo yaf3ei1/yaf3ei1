@@ -1,0 +1,13 @@
+$(`<img style="height:90px;width: 100%;margin-right: 4px;background-color: #2f4749;" src="https://www.ya-f3.com/sico/1636459694839.gif" border="0">`).insertBefore('div#d2bc');
+
+$("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'> <a href='https://ya-f3.com/'>شات صوتي كتابي </a></div>").insertAfter($(".loginstat"))
+
+$(` <center><div width="99%" id="asim7"><font style="background-color:#FFFFFF;color:#2f4749;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;" > 
+
+ ( متنفس الآقلأم والقلوب)  </font></div><center>`).insertBefore('div#d2bc');
+
+$(".tboxbc").attr("placeholder", "اطلق العنان لقلمك وابدع");
+
+$("#l1>button,#l2>button").click(function(){alert('   اهلآإ بكم فيء عائلتنا عائلة شات انفاس للجوال     ')})
+
+$(`<center><div style="position: static;width: 100%;" onclick="setTimeout(function(){fixSize();},800);"><div width="99.5%" id="design-a"style="background-color: antiquewhite;color: #105873;border-bottom: 3px solid #105873;border-top: 3px solid #6b5f5f;padding-bottom: 2px;border-radius: 0px 0px 15px 15px;" ><font id="sultan" class=" sultan11"><u><b>الاشتراكــات</b></u> </font><div id="spanan" style="font-family: jazeera-light, FontAwesome;color: red;text-align: right;display:none;" ><p style="text-align: center"><b><font color="#000080">اشتراكات الشات</font></b></p></p><div style="float: right;padding-right: 20px;">- 1</div> تاج ذهبي بخاصية ( المخفي ) + ( سوبر فضي هديه ) بـ 13 عضو لمدة : شهرين <img src="https://www.ya-f3.com/sico/1549292642761.gif"></p><div style="float: right;padding-right: 20px;">- 2</div> تاج اسود ملكي بخاصية ( المخفي ) بـ 10 اعضاء لمدة : شهرين <img src="https://www.ya-f3.com/sico/1636478666807.gif"></p><div style="float: right;padding-right: 20px;">- 3</div> تاج فضي بـ 8 اعضاء لمدة : شهرين <img src="https://www.ya-f3.com/sico/1636478691763.gif"> </p><div style="float: right;padding-right: 20px;">- 4</div> نجمه ذهبيه بـ 6 اعضاء لمدة : شهرين <img src="https://www.ya-f3.com/sico/1634645924410.gif"></p><div style="float: right;padding-right: 20px;">- 5</div> نجمه سوداء بـ 4 اعضاء لمدة : شهر <img src="https://www.ya-f3.com/sico/1636478854796.gif"></p><div style="float: right;padding-right: 20px;">- 6</div> نجمه فضيه بـ 3 اعضاء لمدة : شهر <img src="https://www.ya-f3.com/sico/1636478996675.gif"><p><b>ومن اراد بنر لـ اسمه بـ 5 اعضاء مع التصميم ولمدة شهر</font></b><p style="text-align: center"><u><b><a target="_blank" href="https://wa.me/qr/3JW5SDULZI6WD1">وللتواصل مع الاداره اضغط هنا</a></b></u><></div> </div></div><center>`).insertBefore('#d2');$("#design-a").click(function(){$("#spanan").slideToggle(function(){});});
