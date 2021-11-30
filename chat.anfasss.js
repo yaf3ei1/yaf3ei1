@@ -54,23 +54,6 @@ clearInterval(myVar);
 
 })
 
-$('.nav-tabs').addClass('fl').css('width','100%');
-
-$('a[href="https://ya-f3.com/"]').removeAttr('href');
-
-$(`<link href="https://fonts.googleapis.com/css?family=Aref+Ruqaa|El+Messiri" rel="stylesheet">
-
-<style>
-
-textarea.fl.filw.corner.tbox {border-radius: 10px;padding-left: 5px;border: 2px solid #adadad;margin-top: 2px;}
-
-.label.tc.border.btn.fl, .label.tc.border.btn.fl {border: 2px solid #316C7D;font-family: 'El Messiri',FontAwesome;border-radius: 3px;}
-
-</style>`).insertBefore('body');
-
-$('.hand.nosel.fl.uzr.border').css({'margin': '0px',borderRight: '3px solid #316C7D',borderLeft: '3px solid #316C7D',borderTop: '1px solid #e2e1e1',borderBottom: '1px solid #e2e1e1',borderRadius: '3px'});
-
-$('.break.light').css({"background-image":"url()"});
 
 (document.getElementById("tbox").placeholder = "مرحبا بك في شات انفاس : اكتب رسالتك  ");
 
