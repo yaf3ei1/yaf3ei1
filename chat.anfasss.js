@@ -83,5 +83,3 @@ $("[data-target=#rooms]").attr('title','   الغرف و الرومـات ')
 $("[data-target=#chats]").attr('title','      المحادثات الخاصه  ')
 
 $("[data-target=#users]").attr('title','  ضيـوفنـا المتـواجدين  ')
-
-$(`${' <center><div style=" width: 99%;height: auto!important; " id="sa" margin:1px;" class="fa fa-heartbeat btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">\x0D\x0A‏	<font color="#fff">&nbsp; •( إضغط هنا القرآن الكريم)• &#9679; &nbsp;</font></div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i></p>\x0D\x0A‏	<b><font color="#000000" size="5">اريحوا مسامعكم </font></b></p><audio controls loop="" play=""><source src="https://h.top4top.io/m_1595scph70.mp3"></audio></div><center>'}`)[
