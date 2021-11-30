@@ -20,7 +20,7 @@ $("div#tlogins button.btn.btn-primary").click(function(){var myVar = setInterval
  
    $(`
     <div class="uzr fl corner borderg mm" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
-      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(https://www.ya-f3.com/sico/1637771239180.png);" class="fl fitimg hand u-pic    ">
+      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(https://www.ya-f3.com/sico/1636459867541.jpg);" class="fl fitimg hand u-pic    ">
       <div class="uzr fl" style="padding:0px;width:80%">
         <div style="padding:0px;width:100%;" class="fl">
           <img class="fl u-ico" alt="" src="    >
@@ -43,12 +43,7 @@ $('.nav-tabs').addClass('fl').css('width','100%');
 
 $('a[href="https://ya-f3.com/"]').removeAttr('href');
 
-$(`<link href="https://fonts.googleapis.com/css?family=Aref+Ruqaa|El+Messiri" rel="stylesheet">
-<style>
-textarea.fl.filw.corner.tbox {border-radius: 10px;padding-left: 5px;border: 2px solid #adadad;margin-top: 2px;}
-.label.tc.border.btn.fl, .label.tc.border.btn.fl {border: 2px solid #316C7D;font-family: 'El Messiri',FontAwesome;border-radius: 3px;}
-</style>`).insertBefore('body');
-
+$(`${' <center><div style=" width: 99%;height: auto!important; " id="sa" margin:1px;" class="fa fa-heartbeat btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">\x0D\x0A‏	<font color="#fff">&nbsp; •( إضغط هنا القرآن الكريم)• &#9679; &nbsp;</font></div><div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"></i></p>\x0D\x0A‏	<b><font color="#000000" size="5">اريحوا مسامعكم </font></b></p><audio controls loop="" play=""><source src="https://h.top4top.io/m_1595scph70.mp3"></audio></div><center>'}`)[
 $('.hand.nosel.fl.uzr.border').css({'margin': '0px',borderRight: '3px solid #316C7D',borderLeft: '3px solid #316C7D',borderTop: '1px solid #e2e1e1',borderBottom: '1px solid #e2e1e1',borderRadius: '3px'});
 
 
@@ -56,7 +51,7 @@ $('.break.light').css({"background-image":"url()"});
 
 (document.getElementById("tbox").placeholder = "مرحبا بك في شات انفاس : اكتب رسالتك  ");
 
-$('.fl.ustat').css('width','3px'),$('.fa.fa-user-plus').html(`تسجِيل،العَضويةة`),document.getElementById('u1').placeholder='اكتبَ اسمك من 8 حروف· ',document.getElementById('pass1').placeholder='الرجاء تقويه كلمة المرور',document.getElementById('u2').placeholder='فخأمة طلتكَ تنؤرنآ',document.getElementById('pass2').placeholder=' بآسوردك لاإ تنساهَ ي جميل ',document.getElementById('u3').placeholder='اكتبَ اسم العضوية ولاإزم تحفظها ';$("[data-target=#wall]").attr('title',' حآإئط / شأت أنفآإس·')
+$('.fl.ustat').css('width','3px'),$('.fa.fa-user-plus').html( تسجِيل،العَضوية`),document.getElementById('u1').placeholder='اكتبَ اسمك من 8 حروف· ',document.getElementById('pass1').placeholder='الرجاء تقويه كلمة المرور',document.getElementById('u2').placeholder='فخأمة طلتكَ تنؤرنآ',document.getElementById('pass2').placeholder=' بآسوردك لاإ تنساهَ ي جميل ',document.getElementById('u3').placeholder='اكتبَ اسم العضوية ولاإزم تحفظها ';$("[data-target=#wall]").attr('title',' حآإئط / شأت أنفآإس·')
 
 $("[data-target=#settings]").attr('title','     الأعدادات و الضبط')
 
