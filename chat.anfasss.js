@@ -24,7 +24,7 @@ $("div#tlogins button.btn.btn-primary").click(function(){var myVar = setInterval
 
     <div class="uzr fl corner borderg mm" style="border-radius:5px;margin-bottom:-2px;width:99.5%;padding:0px; background-color:white;">
 
-      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(https://www.ya-f3.com/sico/1636459867541.jpg);" class="fl fitimg hand u-pic    ">
+      <img style="width: 36px; height: 38px; margin-left: 1px; margin-top: 1px; background-image: url(https://ya-f3.com/pic.png);" class="fl fitimg hand u-pic    ">
 
       <div class="uzr fl" style="padding:0px;width:80%">
 
